@@ -62,7 +62,7 @@ Welcome to my portfolio. I'm a passionate **Web & Android Developer** who loves 
 
 - **Email:** [kotoe.htd258@gmail.com](mailto:kotoe.htd258@gmail.com)
 - **Telegram:** [@twowt2](https://t.me/twowt2)
-- **Portfolio Website:** [portfolio-liar2003s-project.vercel.app](https://toewaioo.github.io)
+- **Portfolio Website:** [Portfolio](https://toewaioo.github.io)
 
 ---
 
